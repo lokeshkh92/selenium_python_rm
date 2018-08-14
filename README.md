@@ -1,1 +1,2 @@
-# selenium_python_rm
+# YARN RM UI Automation
+Automating yarn resource manager UI using selenium with python
